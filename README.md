@@ -19,3 +19,6 @@ Requirements: <br />
  The message consumer component of the system processes each message and notifies asynchronously using WebSockets the client application <br />
 
  - Non-Functional: Security(cookies, session, etc.)
+
+
+This project was also deployed, but on GitLab(https://gitlab.com/rusrarestudor/ds2021_30442_rus_rares_2_backend/-/tree/docker_production)
