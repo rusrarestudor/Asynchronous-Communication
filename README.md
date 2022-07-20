@@ -7,7 +7,7 @@ This project consists of an online platform to help customers of an energy compa
 The system is implemented and designed based on a message broker middleware that gathers data from the sensors and pre-processes them before storing them in the database.
 
 Technologies used: <br />
- - REST services for backend application (Java Spring) <br />
+ - For backend application (Java Spring) <br />
  - RabbitMQ to publish./consume data from sensors. <br />
  - WebSockets to notify the client. <br />
  - JavaScript-based framework for client application(ReactJS) <br />
